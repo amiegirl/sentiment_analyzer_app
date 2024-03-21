@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sentiment Analyzer</title>
+</head>
+<body>
+    <h1 style="color: green;">Welcome to Flipkart</h1>
+    <h4 style="color: green;">Lets know how you feel about our product and services</h4>
+    <form action="/reviews" method="POST">
+        <textarea style="font-size: large;" type="text" name = "name" cols="35" placeholder ="enter your name" >{{name}}</textarea><br>
+        <br>
+        <textarea  style="font-size: large;" name ="review" rows="10" cols="35" placeholder="enter your review">{{review_text}}</textarea><br>
+        <input style="color: darkblue; font-size: large;" type="submit" value="submit"><br>
+        <br>
+    </form>
+</body>
+</html>
