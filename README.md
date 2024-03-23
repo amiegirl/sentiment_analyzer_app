@@ -33,7 +33,7 @@ Each review includes features such as Reviewer Name, Rating, Review Title, Revie
 2. Model Integration: Integrate the trained sentiment classification model into the Flask for real-time inference.
 3. Deployment: Deploy the Flask app on an AWS EC2 instance to make it accessible over the internet.<br>
 
-https://github.com/amiegirl/sentiment_analyzer_app/assets/81017006/79989507-df64-48dc-af15-9e016e955a18
+https://github.com/amiegirl/sentiment_analyzer_app/assets/81017006/260c7734-a974-49bd-b77d-4c69a3175de9
 
 ## Testing and Monitoring Test the deployed application and monitor its performance for any issues or errors.
 
